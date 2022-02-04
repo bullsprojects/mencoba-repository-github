@@ -4,3 +4,4 @@ lorem ipsum
 nambah kalimat
 lorem lagi
 ipsum lagi
+Lorem Ipsum is simply dummy text of the printing and typesetting industry

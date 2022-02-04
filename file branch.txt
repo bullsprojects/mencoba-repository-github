@@ -2,3 +2,5 @@ mencoba membuat file branch
 lorem ipsum
 lorem ipsum
 nambah kalimat
+lorem lagi
+ipsum lagi
